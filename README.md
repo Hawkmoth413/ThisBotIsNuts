@@ -1,5 +1,5 @@
 # This Bot is Nuts!
-This Bot Is Nuts! is a Project Moon-themed reaction proxy, made as a prank for a good friend. 
+This Bot Is Nuts! is a Project Moon-themed reaction macro, made as a prank for a good friend. 
 
 ## Information
 Whether or not the bot reacts to a user's messages is completely opt-in on the user's side. Other users cannot make the bot start reacting to your messages. 
