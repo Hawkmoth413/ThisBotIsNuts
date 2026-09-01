@@ -16,7 +16,7 @@ Create an application on the Discord Developer portal.
 When generating a Bot token, include the "Send Messages" and "Add Reactions" privileges, along with the Message Content Privileged Intent.
 Store your token inside a .env file in the same folder as main.py, and name the environmental variable BOT_TOKEN.
 
-You should be good now! All that's needed is to run main.py 
+You should be good now! All that's needed is to run main.py.
 
 ## License
-This bot is licensed under The Unlicense license. 
+This bot is licensed under The Unlicense. 
